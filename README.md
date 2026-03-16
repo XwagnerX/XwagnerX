@@ -1,5 +1,5 @@
 # 👋 Hola, soy Aleix Wagner
-Estudiante de DAW en l'Escola Pia · Amante del desarrollo web y la tecnología 🖥️
+Estudiante de una ingenieria informatica en el tecnocampus. Tambien tengo un grado de DAW en la Escola PIA · Amante del desarrollo web y la tecnología 🖥️
 
 ## 🙋 Sobre mí
 
